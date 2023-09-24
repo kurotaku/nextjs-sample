@@ -1,0 +1,14 @@
+{
+  "home": "ホーム",
+  "models": {
+    "user": "ユーザー",
+    "item": "アイテム"
+  },
+  "new": "新規作成",
+  "create": "作成",
+  "edit": "編集",
+  "update": "更新",
+  "delete": "削除",
+  "execute": "実行",
+  "signin": "ログイン"
+}
